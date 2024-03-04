@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://medium.com/@indranilsen1983/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://medium.com/@indranilsen1983/"><img src="https://findingtom.com/images/uploads/medium-logo/article-image-00.jpeg" width="40" height="40"/></a>
         </td>
         <td>
             <a href="https://drive.google.com/file/d/1EBWpcyu99W0vyyWdIbxJ_A33bHYzkcnf/view?usp=sharing">📃</a>
